@@ -8,7 +8,7 @@ Changing a light bulb is the easiest home maintenance task. But, for those of yo
 
 
  1. **Turn off the power**
-First make sure the power is turned off. The safest way to do this is to switch the large red power button to ‘off’ on the fuse box.
+First make sure the power is turned off. The safest way to do this is to switch the large red power button to **off** on the fuse box.
 
 2. **Let it cool**
 Allow the bulb to cool before touching it.
